@@ -22,7 +22,7 @@ Other features:
   booting procedure is in single board-specific file, lighter environment system.
 * New MTD stack and read-write routines.
 * Easy framework for in-place generating of Linux tags and commad line.
-* No that f*cking relocation, easy to debug.
+* Relocation is no more, easy to debug.
 
 Working commands are: help, setenv, getenv, saveenv, reset, bootm, mtdboot,
 tftpboot, ping, version, mtd, fwupgrade and some other which are not so important.
